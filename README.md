@@ -21,5 +21,5 @@ This project is based on an online course where I learnt modelling a windfarm fr
 - **For selection of wind turbine model and calculatiuon of outputs** : https://windpowerlib.readthedocs.io/en/stable
 
 ### Course link: 
-https://www.udemy.com/course/wind-energy-modeling-bootcamp-hands-on-python/?couponCode=KEEPLEARNING
+https://www.udemy.com/course/wind-energy-modeling-bootcamp-hands-on-python/
 
