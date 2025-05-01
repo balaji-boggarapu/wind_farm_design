@@ -14,3 +14,9 @@ This project is a continuation of an online course on the basics of wind energy 
 - **No Prerequisites**: We begin with no prerequisites at all, even the fundamentals of Python programming so that you are well-equipped to learn wind turbine modeling.
 
 - **Comprehensive Learning**: By the end of the course, you'll have the capability to model single wind turbines and entire wind farms, visualize results, and examine wind energy data for any point on Earth.
+
+### For Data Sources:
+
+- **For collecting wind speed and other environmental attributes** : https://power.larc.nasa.gov
+- **For selection of wind turbine model and calculatiuon of outputs** : https://windpowerlib.readthedocs.io/en/stable
+
