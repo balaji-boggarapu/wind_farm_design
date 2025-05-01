@@ -1,6 +1,6 @@
 # Wind Farm Modeling from Scratch
 
-This project is a continuation of an online course on the basics of wind energy and wind turbine and wind farm modeling. The course offers a concise and organized method, ranging from fundamentals to Python implementation. The goal is to enable you to model wind turbines and design wind farm simulations for any location on Earth.
+This project is based on an online course where I learnt modelling a windfarm from scratch. The course offers a concise and organized method, ranging from fundamentals to Python implementation. The goal is to enable you to model wind turbines and design wind farm simulations for any location on Earth.
 
 ### Key Learnings from this Course:
 - **Introduction to Wind Energy**: Get acquainted with the fundamentals of wind energy and wind turbines.
@@ -19,4 +19,7 @@ This project is a continuation of an online course on the basics of wind energy 
 
 - **For collecting wind speed and other environmental attributes** : https://power.larc.nasa.gov
 - **For selection of wind turbine model and calculatiuon of outputs** : https://windpowerlib.readthedocs.io/en/stable
+
+### Course link: 
+https://www.udemy.com/course/wind-energy-modeling-bootcamp-hands-on-python/?couponCode=KEEPLEARNING
 
